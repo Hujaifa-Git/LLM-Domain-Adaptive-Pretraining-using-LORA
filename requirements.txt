@@ -1,0 +1,14 @@
+sentencepiece
+accelerate==0.24.1
+datasets
+tqdm
+xformers
+rouge_score
+fire
+wandb
+openai
+tensorboard
+tokenizers==0.14
+transformers==4.34.0
+torch>=2.0.1
+tensorflow
