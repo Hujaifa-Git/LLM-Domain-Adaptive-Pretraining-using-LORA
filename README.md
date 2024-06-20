@@ -10,6 +10,7 @@ This repository is built upon [tatsu-lab/stanford_alpaca](https://github.com/tat
 
 - [LLaMA 1 & 2](https://huggingface.co/meta-llama)
 - [Mistral](https://huggingface.co/mistralai)
+- Huggingface Models
 
 ## Continual Pretraining
 
